@@ -29,11 +29,17 @@ Sistem basis data ini mencakup pengelolaan data barang, kasir, transaksi, dan de
 ## 4. Struktur Repository
 Struktur repository proyek disusun sebagai berikut:
 uas-pbd-nota-indomaret
+
 ├── README.md
+
 ├── sql
+
 │ └── database_nota_indomaret.sql
+
 ├── docs
+
 │ ├── poster.pdf
+
 │ └── laporan.pdf
 
 ---
