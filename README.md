@@ -1,0 +1,60 @@
+# Sistem Basis Data Nota Penjualan Indomaret
+
+## Deskripsi Proyek
+Proyek ini merupakan tugas Ujian Akhir Semester mata kuliah *Pemrograman Basis Data*.  
+Studi kasus yang digunakan adalah *Sistem Basis Data Nota Penjualan Indomaret*, yang bertujuan untuk merancang dan mengimplementasikan basis data transaksi penjualan secara terstruktur dan relasional.
+
+Sistem basis data ini mencakup pengelolaan data barang, kasir, transaksi, dan detail transaksi (nota), serta penerapan query SQL untuk menghasilkan informasi penjualan. Proyek ini dikembangkan sebagai penerapan materi perkuliahan Pemrograman Basis Data.
+
+---
+
+## Tujuan Proyek
+- Merancang basis data menggunakan Entity Relationship Diagram (ERD)
+- Menerapkan normalisasi data hingga Bentuk Normal Ketiga (3NF)
+- Mengimplementasikan database menggunakan DBMS MySQL
+- Menerapkan query SQL meliputi DDL, DML, TCL, JOIN, GROUP BY, dan HAVING
+- Menghasilkan nota transaksi dan laporan penjualan berbasis query SQL
+
+. Tools dan Teknologi
+- MySQL  
+- MySQL Workbench  
+- SQL (DDL, DML, TCL)
+- *GitHub* sebagai repository pengelolaan proyek
+
+---
+
+## Struktur Repository
+
+---
+
+## Cara Setup / Instalasi Database
+1. Pastikan MySQL Server dan MySQL Workbench sudah terpasang
+2. Buat database baru di MySQL (misalnya: nota_indomaret)
+3. Import file SQL:
+   - Buka MySQL Workbench
+   - Pilih menu *Server → Data Import*
+   - Pilih file database_nota_indomaret.sql
+   - Jalankan proses import
+4. Database siap digunakan
+
+---
+
+## Cara Menjalankan Proyek
+Proyek ini berfokus pada *perancangan dan implementasi basis data*, sehingga tidak menggunakan aplikasi frontend atau backend tambahan.  
+Pengujian dilakukan dengan menjalankan query SQL langsung pada MySQL Workbench, termasuk:
+- Query JOIN
+- Query GROUP BY dan HAVING
+- Query agregasi
+- Skenario transaksi (TCL)
+
+---
+
+## Anggota Kelompok
+- Rista Ayu Nur Aidah – 240103201  
+- Aminudin Fadli – 240103183  
+- Shofwan Adinaufal – 240103203  
+
+---
+
+## Catatan
+Repository ini dibuat sebagai dokumentasi dan bukti pengembangan proyek Ujian Akhir Semester mata kuliah Pemrograman Basis Data, sesuai dengan ketentuan yang ditetapkan oleh dosen pengampu.
