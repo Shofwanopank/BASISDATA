@@ -31,7 +31,6 @@ Struktur repository proyek disusun sebagai berikut:
 uas-pbd-nota-indomaret
 
 basisdata/
-│
 ├── laporan/
 │   └── laporan_nota_indomaret.pdf
 │
@@ -51,6 +50,7 @@ basisdata/
 │   └── poster_sistem_nota.png
 │
 └── README.md
+
 
 
 ## 5. Cara Setup / Instalasi Database
