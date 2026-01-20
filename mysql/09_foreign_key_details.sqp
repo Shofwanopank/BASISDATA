@@ -1,0 +1,18 @@
+produk → supplier
+FOREIGN KEY (id_supplier)
+REFERENCES supplier(id_supplier)
+pelanggan → member
+FOREIGN KEY (id_member)
+REFERENCES member(id_member)
+transaksi → pelanggan
+FOREIGN KEY (id_pelanggan)
+REFERENCES pelanggan(id_pelanggan)
+transaksi → kasir
+FOREIGN KEY (id_kasir)
+REFERENCES kasir(id_kasir)
+detail_transaksi → transaksi
+FOREIGN KEY (id_transaksi)
+REFERENCES transaksi(id_transaksi)
+detail_transaksi → produk
+FOREIGN KEY (id_produk)
+REFERENCES produk(id_produk)
