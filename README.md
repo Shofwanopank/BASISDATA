@@ -122,7 +122,7 @@ Laporan proyek ini disusun sebagai dokumentasi lengkap pengembangan Sistem Basis
 Laporan mencakup perancangan ERD, proses normalisasi database, implementasi tabel MySQL, serta pengujian query SQL.
 
 📄 File laporan tersedia pada:
-laporan/LAPORAN_UAS_BASIS_DATA_FINAL 1.docx
+[laporan/LAPORAN_UAS_BASIS_DATA_FINAL 1.docx](https://github.com/Shofwanopank/BASISDATA/blob/main/laporan/LAPORAN_UAS_BASIS_DATA_FINAL%201.docx)
 
 ---
 
