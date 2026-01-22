@@ -12,8 +12,6 @@ Sistem basis data ini mencakup pengelolaan data barang, kasir, transaksi, dan de
 - Merancang basis data menggunakan Entity Relationship Diagram (ERD)
   <img width="503" height="257" alt="image" src="https://github.com/user-attachments/assets/dafc1a90-167b-47fa-8c6d-22d779931dc7" />
 - Menerapkan normalisasi data hingga Bentuk Normal Ketiga (3NF)
-  <img width="448" height="361" alt="image" src="https://github.com/user-attachments/assets/abe2bd36-1e0c-4e5b-8357-dfe4945b3c75" /><img width="464" height="379" alt="image" src="https://github.com/user-attachments/assets/56768d44-7e15-4ab2-83b0-b2037033f05e" />
-
 - Mengimplementasikan database menggunakan DBMS MySQL
 - Menerapkan query SQL meliputi DDL, DML, TCL, JOIN, GROUP BY, dan HAVING
 - Menghasilkan nota transaksi dan laporan penjualan berbasis query SQL
