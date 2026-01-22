@@ -37,9 +37,11 @@ basisdata/
 ├── laporan/
 
 │   └── laporan_nota_indomaret.pdf
+
 │
 
-├── mysql/
+├    ── mysql/
+
 │   ├── 01_create_database.sql
 
 │   ├── 02_create_supplier.sql
@@ -59,8 +61,9 @@ basisdata/
 │   ├── 09_foreign_key.sql
 
 │   └── database_nota_indomaret.sql
+
 │
-├── poster/
+├    ── poster/
 │   └── poster_sistem_nota.png
 
 │
