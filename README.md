@@ -38,16 +38,26 @@ basisdata/
 
 │   └── laporan_nota_indomaret.pdf
 │
+
 ├── mysql/
 │   ├── 01_create_database.sql
+
 │   ├── 02_create_supplier.sql
+
 │   ├── 03_create_member.sql
+
 │   ├── 04_create_kasir.sql
+
 │   ├── 05_create_produk.sql
+
 │   ├── 06_create_pelanggan.sql
+
 │   ├── 07_create_transaksi.sql
+
 │   ├── 08_create_detail_transaksi.sql
+
 │   ├── 09_foreign_key.sql
+
 │   └── database_nota_indomaret.sql
 │
 ├── poster/
