@@ -64,6 +64,7 @@ basisdata/
 
 │
 ├    ── poster/
+
 │   └── poster_sistem_nota.png
 
 │
