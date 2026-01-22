@@ -97,6 +97,6 @@ Pengujian dilakukan dengan menjalankan query SQL langsung pada MySQL Workbench, 
 - Rista Ayu Nur Aidah – 240103201  
 - Aminudin Fadli – 240103183  
 - Shofwan Adinaufal – 240103203
-## 9.nama 
+## 9.Dosen Penampu 
 - Ridwan Dwi Irawan, M.Kom
 ---
