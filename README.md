@@ -38,10 +38,9 @@ Hasil normalisasi menghasilkan tabel-tabel seperti produk, kasir, pelanggan, tra
 
 Entity Relationship Diagram (ERD) digunakan untuk menggambarkan rancangan struktur basis data Sistem Nota Penjualan Indomaret. 
 ERD ini menunjukkan entitas yang terlibat, atribut setiap entitas, serta relasi antar tabel yang mendukung proses transaksi penjualan.
-<img width="503" height="257" alt="image" src="https://github.com/user-attachments/assets/dafc1a90-167b-47fa-8c6d-22d779931dc7" />
+![Uploading image.png…]()
 
 ---
-
 
 ## 3. Tools dan Teknologi
 - MySQL  
