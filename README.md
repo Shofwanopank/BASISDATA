@@ -10,13 +10,38 @@ Sistem basis data ini mencakup pengelolaan data barang, kasir, transaksi, dan de
 
 ## 2. Tujuan Proyek
 - Merancang basis data menggunakan Entity Relationship Diagram (ERD)
-  <img width="503" height="257" alt="image" src="https://github.com/user-attachments/assets/dafc1a90-167b-47fa-8c6d-22d779931dc7" />
 - Menerapkan normalisasi data hingga Bentuk Normal Ketiga (3NF)
 - Mengimplementasikan database menggunakan DBMS MySQL
 - Menerapkan query SQL meliputi DDL, DML, TCL, JOIN, GROUP BY, dan HAVING
 - Menghasilkan nota transaksi dan laporan penjualan berbasis query SQL
+  
+---
+
+## Normalisasi Database
+
+Proses normalisasi dilakukan untuk menghindari redundansi data dan menjaga konsistensi basis data.
+Normalisasi pada sistem ini dilakukan hingga **Bentuk Normal Ketiga (3NF)** dengan tahapan sebagai berikut:
+
+1. **Bentuk Normal Pertama (1NF)**  
+   Setiap tabel memiliki atribut bernilai atomik dan tidak terdapat pengulangan data.
+
+2. **Bentuk Normal Kedua (2NF)**  
+   Setiap atribut non-kunci bergantung sepenuhnya pada primary key.
+
+3. **Bentuk Normal Ketiga (3NF)**  
+   Tidak terdapat ketergantungan transitif antar atribut non-kunci.
+
+Hasil normalisasi menghasilkan tabel-tabel seperti produk, kasir, pelanggan, transaksi, dan detail_transaksi.
 
 ---
+## Entity Relationship Diagram (ERD)
+
+Entity Relationship Diagram (ERD) digunakan untuk menggambarkan rancangan struktur basis data Sistem Nota Penjualan Indomaret. 
+ERD ini menunjukkan entitas yang terlibat, atribut setiap entitas, serta relasi antar tabel yang mendukung proses transaksi penjualan.
+<img width="503" height="257" alt="image" src="https://github.com/user-attachments/assets/dafc1a90-167b-47fa-8c6d-22d779931dc7" />
+
+---
+
 
 ## 3. Tools dan Teknologi
 - MySQL  
@@ -32,7 +57,6 @@ Struktur repository proyek disusun sebagai berikut:
 uas-pbd-nota-indomaret
 
 basisdata/
-
 
 ├── laporan/
 
@@ -90,6 +114,15 @@ Pengujian dilakukan dengan menjalankan query SQL langsung pada MySQL Workbench, 
 - Query GROUP BY dan HAVING
 - Query agregasi
 - Skenario transaksi (TCL)
+
+---
+
+## Laporan Proyek
+
+Laporan proyek ini disusun sebagai dokumentasi lengkap pengembangan Sistem Basis Data Nota Penjualan Indomaret.
+Laporan mencakup perancangan ERD, proses normalisasi database, implementasi tabel MySQL, serta pengujian query SQL.
+
+📄 File laporan tersedia pada:
 
 ---
 
